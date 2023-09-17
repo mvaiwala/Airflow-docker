@@ -6,10 +6,10 @@ prerequisite: Docker and (docker-compose or docker compose, both will be cherry 
 **docker --version**
 
 
-**docker-compose --version **
+**docker-compose --version**
 
 
-**docker compkse version **
+**docker compkse version**
 
 Here are the steps in laymens term :
 
