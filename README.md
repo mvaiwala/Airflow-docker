@@ -9,6 +9,7 @@ docker-compose --version
 
 docker compkse version
 
+
 Here are the steps in laymens term :
 
 1. create one directory airflow
