@@ -4,8 +4,10 @@ This repo will guide you way to setup airflow in your local machine using docker
 prerequisite: Docker and (docker-compose or docker compose, both will be cherry on the cake😉) version should be installed in your system. you can check by following command 
 
 **docker --version
-docker-compose --version 
-docker compkse version **
+**
+**docker-compose --version 
+**
+**docker compkse version **
 
 Here are the steps in laymens term :
 
