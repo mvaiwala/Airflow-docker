@@ -20,7 +20,16 @@ Here are the steps in laymens term :
 Directory structure :
 
 
+
+
+
+
 ![image](https://github.com/mvv-git-eng/Airflow-docker/assets/84799610/4b8ce8df-e6b1-4501-ba0d-c0a7072d1e35)
 
+
+
+
+
 **NOTE** : make sure yor are in airflow directory before executing steps 5 and 6 
+
 Refrence document : https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html
